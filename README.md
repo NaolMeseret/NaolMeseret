@@ -5,7 +5,8 @@ ___
 - ```💞️ I’m looking to collaborate on innovative web development projects that combine modern design with robust functionality.```
 ___
 - **📫 How to reach me:👇**
-   - [Email](naolmes15062015@gmail.com)
+   - [Email](mailto:naolmes15062015@gmail.com
+)
    - [LinkedIn](https://www.linkedin.com/in/naol-meseret-8300232b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXIVc5qXhQvOGAND1KoPp9A%3D%3D)
 ___
 - ```😄 Pronouns: he/him.```
