@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naol Meseret! 
+- 👋 Hi there, I’m Naol Meseret! 
 - 👀 I’m interested in full-stack development, software design, cybersecurity, and networking concepts.
 - 🌱 I’m currently learning front-end and back-end technologies, software design principles, and best practices for building secure and scalable web applications as part of my studies in Software Engineering at Jimma University.
 - 💞️ I’m looking to collaborate on innovative web development projects that combine modern design with robust functionality.
