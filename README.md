@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+
 ### 🛠️ Languages and Tools I Use
 
 <p align="left">
