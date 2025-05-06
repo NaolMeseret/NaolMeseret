@@ -37,6 +37,11 @@
 
 ---
 
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaolMeseret&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 <!---
 NaolMeseret/NaolMeseret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
