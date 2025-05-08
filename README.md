@@ -45,8 +45,8 @@
 
  ---
 
-### 📊 GitHub Analytics
 
+<!--### 📊 GitHub Analytics -->
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaolMeseret&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaolMeseret&layout=compact&langs_count=8&theme=github_dark"/>
@@ -59,23 +59,26 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaolMeseret&theme=onedark&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
 ### 📫 Let's Connect
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naol-meseret-8300232b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-27548A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:naolmes15062015@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-213448?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Naol_M/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-LeetCode-537D5D?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/26347862/naol-meseret">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-DDA853?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </div>
+
+
 
 ---
 
