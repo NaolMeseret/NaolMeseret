@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Naol Meseret</h1>
 <h3 align="center">MERN Stack Developer | Mobile App Enthusiast | Mathematics Aficionado</h3>
 
----
 
-### 🚀 About Me
+
+<!-- ### 🚀 About Me
 
 - 🔭 I'm passionate about **full-stack development**, **software architecture**, and **cybersecurity**
 - 🌱 Currently mastering **advanced frontend patterns**, **cloud infrastructure**, and **secure coding practices**
 - 💡 Enjoy solving complex problems at the intersection of technology and mathematics
 - ⚡ Fun fact: I can derive mathematical proofs while debugging React components
+-->
 
 ---
-
+ 
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -49,14 +50,14 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
+ ---
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaolMeseret&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaolMeseret&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
+</div> -->
 
 ---
 
