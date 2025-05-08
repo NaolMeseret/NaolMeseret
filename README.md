@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Naol Meseret</h1>
-<h3 align="center">MERN Stack Developer | Mobile App Enthusiast | Maths Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Mobile App Enthusiast | Mathematics Aficionado</h3>
 
 ---
 
-- 👀 I’m interested in **full-stack development**, **software design**, **cybersecurity**, and **networking**.
-- 🌱 I’m currently learning **front-end and back-end technologies**, **software design principles**, and **best practices for secure web apps**.
-- 💞️ I’m looking to collaborate on **innovative web projects** that combine modern design with strong functionality.
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I love crafting seamless user experiences and digging into how systems work behind the scenes.
+### 🚀 About Me
+
+- 🔭 I'm passionate about **full-stack development**, **software architecture**, and **cybersecurity**
+- 🌱 Currently mastering **advanced frontend patterns**, **cloud infrastructure**, and **secure coding practices**
+- 💡 Enjoy solving complex problems at the intersection of technology and mathematics
+- ⚡ Fun fact: I can derive mathematical proofs while debugging React components
 
 ---
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-Naol%20Meseret-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naol-meseret-8300232b7/)](https://www.linkedin.com/in/naol-meseret-8300232b7/)
-[![Gmail](https://img.shields.io/badge/-naolmes15062015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naolmes15062015@gmail.com)](mailto:naolmes15062015@gmail.com)
-
----
-
-
-### 🛠️ Languages and Tools I Use
+### 🛠️ Tech Stack
 
 <p align="left">
   <!-- MERN Stack -->
@@ -55,19 +49,43 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaolMeseret&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaolMeseret&layout=compact&langs_count=8&theme=github_dark"/>
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-![Naol's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaolMeseret&show_icons=true&theme=github_dark)
+### 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaolMeseret&theme=onedark&no-frame=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaolMeseret&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/naol-meseret-8300232b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:naolmes15062015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Naol_M/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+  <a href="https://stackoverflow.com/users/your-profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-<!---
-NaolMeseret/NaolMeseret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/NaolMeseret/count.svg" />
+</p>
