@@ -78,7 +78,7 @@
   <a href="https://leetcode.com/u/Naol_M/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
-  <a href="https://stackoverflow.com/users/your-profile">
+  <a href="https://stackoverflow.com/users/26347862/naol-meseret">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </div>
