@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naol Meseret</h1>
+<h1 align="center">Yo what's good 👋, I'm Naol Meseret</h1>
 <h3 align="center">MERN Stack Developer | Mobile App Enthusiast | Mathematics Aficionado</h3>
 
 
@@ -79,7 +79,7 @@
 
 ---
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/NaolMeseret/count.svg" />
-</p>
+</p> -->
