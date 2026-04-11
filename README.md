@@ -19,29 +19,51 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="120" height="30" />
   </a>
+
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" width="120" height="30" />
   </a>
+
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" width="120" height="30" />
   </a>
+
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" width="120" height="30" />
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="120" height="30" />
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" width="120" height="30" />
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" width="120" height="30" />
+  </a>
+
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" width="120" height="30" />
   </a>
+
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="120" height="30" />
   </a>
+
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" width="120" height="30" />
   </a>
+
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="120" height="30" />
   </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="120" height="30" />
   </a>
 </p>
-
 
  ---
 
