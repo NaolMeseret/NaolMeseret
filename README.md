@@ -15,7 +15,7 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="120" height="30" />
   </a>
@@ -63,7 +63,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="120" height="30" />
   </a>
-</p>
+</p> -->
 
  ---
 
