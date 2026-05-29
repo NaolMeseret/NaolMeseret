@@ -1,5 +1,5 @@
 <h1 align="center">Yo what's good 👋, I'm Naol Meseret</h1>
-<h3 align="center">MERN Stack Developer | Mobile App Enthusiast | Mathematics Aficionado</h3>
+<h3 align="center">MERN Stack Developer | Mathematics Aficionado</h3>
 
 
 
@@ -37,9 +37,9 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </a>
-  <a href="https://flutter.dev/" target="_blank">
+  <!-- <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
